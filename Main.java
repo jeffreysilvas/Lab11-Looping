@@ -20,7 +20,7 @@ public class Main
       System.out.printf("Roll %d: [%d]%n", i + 1, dice);
     }
 
-    System.out.printf("Final roll counts:%n" +
+    System.out.printf("%nFinal roll counts:%n" +
             "[1]: %d times%n" +
             "[2]: %d times%n" +
             "[3]: %d times%n" +
