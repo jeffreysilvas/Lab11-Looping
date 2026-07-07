@@ -21,12 +21,12 @@ public class Main
     }
 
     System.out.printf("%nFinal roll counts:%n" +
-            "[1]: %d+ times%n" +
-            "[2]: %d+ times%n" +
-            "[3]: %d+ times%n" +
-            "[4]: %d+ times%n" +
-            "[5]: %d+ times%n" +
-            "[6]: %d+ times%n",
+            "[1]: %d times%n" +
+            "[2]: %d times%n" +
+            "[3]: %d times%n" +
+            "[4]: %d times%n" +
+            "[5]: %d times%n" +
+            "[6]: %d times%n",
             count1, count2, count3, count4, count5, count6);
   }
   
