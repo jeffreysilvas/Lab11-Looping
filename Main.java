@@ -17,7 +17,7 @@ public class Main
         case 5 -> count5++;
         case 6 -> count6++;
       }
-      System.out.printf("Roll: [%d]%n", dice);
+      System.out.printf("Roll %d: [%d]%n", i + 1, dice);
     }
 
     System.out.printf("Final roll counts:%n" +
